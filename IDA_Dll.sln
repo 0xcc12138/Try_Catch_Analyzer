@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IDA_Dll", "IDA_Dll.vcxproj", "{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		IDA32_Debug|x64 = IDA32_Debug|x64
+		IDA32_Debug|x86 = IDA32_Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.Debug|x64.ActiveCfg = Debug|x64
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.Debug|x64.Build.0 = Debug|x64
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.Debug|x86.ActiveCfg = Debug|Win32
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.Debug|x86.Build.0 = Debug|Win32
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.IDA32_Debug|x64.ActiveCfg = IDA32_Debug|x64
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.IDA32_Debug|x64.Build.0 = IDA32_Debug|x64
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.IDA32_Debug|x86.ActiveCfg = IDA32_Debug|Win32
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.IDA32_Debug|x86.Build.0 = IDA32_Debug|Win32
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.Release|x64.ActiveCfg = Release|x64
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.Release|x64.Build.0 = Release|x64
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.Release|x86.ActiveCfg = Release|Win32
+		{F01EF92A-0B20-4CAF-ADDE-23A802CAA723}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CA28635-03F4-4326-BF13-254058C291B4}
+	EndGlobalSection
+EndGlobal
